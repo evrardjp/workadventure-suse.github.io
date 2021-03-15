@@ -28,7 +28,10 @@ googleAnalytics = ""
     url = "https://play.workadventu.re/_/global/workadventure-suse.github.io/office/map.json"
     name = "Enter world"
     weight = 3
-
+[[menu.main]]
+    url = "/legal"
+    name = "Legal notice"
+    weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
