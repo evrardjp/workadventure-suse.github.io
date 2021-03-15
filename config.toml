@@ -1,0 +1,40 @@
+baseURL = "http://wa.suse.net/"
+languageCode = "en-us"
+title = "SUSE World"
+theme = "minimal"
+googleAnalytics = ""
+
+[params]
+    author = "Calin Tataru"
+    description = "A digital world for SUSE Hack Week 20\n\n [How to use](/tutorial)"
+    githubUsername = "#"
+    accent = "green"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+
+[[menu.main]]
+    url = "/"
+    name = "SUSE Hack Week World"
+    weight = 1
+[[menu.main]]
+    url = "/tutorial"
+    name = "How to use"
+    weight = 2
+[[menu.main]]
+    url = "https://play.workadventu.re/_/global/workadventure-suse.github.io/office/map.json"
+    name = "Enter world"
+    weight = 3
+
+
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+[[menu.icon]]
+    url = "https://github.com/workadventure-suse"
+    name = "fab fa-github"
+    weight = 1
