@@ -8,7 +8,7 @@ This time we want to bring the socializing to you in another format: A digital S
 ## Entering the SUSE Hack Week World!
 
 By clicking the link below you agree with our [privacy policy](/legal).
-[![Enter the SUSE Hack Week World!](/images/world2.png)](https://play.workadventu.re/_/global/wa.suse.net/office/map.json)
+[![Enter the SUSE Hack Week World!](/images/world2.png)](https://play.wa.suse.net/_/global/wa.suse.net/office/map.json)
 
 ## Navigating the world
 - use the **arrow keys** to navigate around the world
@@ -16,4 +16,3 @@ By clicking the link below you agree with our [privacy policy](/legal).
 - enter the **proximity of another player** to start a voicechat
 - use the **meeting rooms** to talk to bigger groups
 - explore the maps and find hidden treasures!
-
