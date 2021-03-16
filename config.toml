@@ -1,4 +1,4 @@
-baseURL = "https://workadventure-suse.github.io/"
+baseURL = "https://wa.suse.net/"
 languageCode = "en-us"
 title = "SUSE World"
 theme = "minimal"
