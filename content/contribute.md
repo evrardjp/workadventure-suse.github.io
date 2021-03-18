@@ -17,7 +17,7 @@ There is a very good tutorial that we recommend on the official [workadventu.re 
 Just start following their tutorial and you will be good to go!
 
 Please follow some basic rules when you start:
-- **Copyright**: Check that you don't violate any copyrights of artists. Preferably choose art that is licenced [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/). If you use other licences, please double-check if you are allowed to use them in this case and throw in a textfile for attribution.
+- **Copyright**: Check that you don't violate any copyrights of artists. Preferably choose art that is licenced [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/). If you use other licences, please double-check if you are allowed to use them in this case and throw in a textfile for attribution that we can include at our [credits page](/credits).
 - **Office models**: Please do not model your real office building. You can model office-inspired buildings, but keep in mind that we don't want to make it too easy for tailgaters :)
 - **Exits**: Always have an exit to the [main map](https://play.wa.suse.net/_/global/wa.suse.net/office/map.json) that is marked very well.
 
