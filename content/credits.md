@@ -378,3 +378,76 @@ http://opengameart.org/lpc-art-entries
 by Lanea Zimmerman (AKA Sharm)
 CC-BY-SA 3.0 / CC-BY-SA 3.0
 http://opengameart.org/lpc-art-entries
+
+## Tilesets used in [office2 map](https://github.com/workadventure-suse/office2)
+
+- "Tilesets FSM RM2K3 para VX/Ace: Set Escritorio"
+by milkian
+(CC0)
+https://www.deviantart.com/milkian/art/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Escritorio-651542743
+
+
+- "Free RPG World Tileset 32x32" ([Base]BaseChip_pipo.png, doors.png)
+by Pipoya
+(CC0)
+https://pipoya.itch.io/pipoya-free-rpg-world-tileset-32x32-40x40-48x48
+
+- "RPG Tileset 32x32"
+by Pipoya
+(CC0)
+https://pipoya.itch.io/pipoya-rpg-tileset-32x32
+
+- "kitchen.png"
+by mlogan
+(free)
+https://forums.rpgmakerweb.com/index.php?threads/mlogans-mv-stuff.62298/#post-601394
+
+- "nature_tile_ii_rpg_maker_by_ayene_chan_d48z4sm.png"
+by Ayene-chan
+(Creative Commons Attribution 3.0)
+https://www.deviantart.com/ayene-chan/art/Nature-Tile-II-RPG-Maker-256940806
+
+- "rpg_maker_trees_by_ayene_chan_d49f24v.png"
+by Ayene-chan
+(Creative Commons Attribution 3.0)
+https://www.deviantart.com/ayene-chan/art/RPG-Maker-Trees-257683855
+
+- "sofas.png"
+by Ayene-chan
+(Creative Commons Attribution 3.0)
+https://www.deviantart.com/ayene-chan/art/RPG-Maker-VX-Ace-Sofas-and-Armchairs-466764664
+
+- "flowers.png"
+by Ayene-chan
+(Creative Commons Attribution 3.0)
+https://www.deviantart.com/ayene-chan/art/RPG-Maker-VX-Flowers-and-Pots-458076623
+
+- "benches.png"
+by Ayene-chan
+(Creative Commons Attribution 3.0)
+https://www.deviantart.com/ayene-chan/art/RPG-Maker-VX-Benches-396272468
+
+- "tables.png"
+by Ayene-chan
+(Creative Commons Attribution 3.0)
+https://www.deviantart.com/ayene-chan/art/RPG-Maker-VX-Tables-457872899
+
+- "deco_rc3-mullana-foyer.png"
+by mullana
+(CC0)
+https://git.cccv.de/rc3/world-tiles/-/blob/master/deco/rc3-mullana-foyer.png
+
+- "teleport_128.png"
+by Clint Bellanger
+(CC-BY-4.0)
+https://opengameart.org/content/teleporter-circle
+
+- "lpc_misc.png"
+by Lanea Zimmerman (Sharm), William.Thompsonj
+(CC-BY 3.0 / GPL 3.0 / GPL 2.0 / OGA-BY 3.0)
+https://opengameart.org/content/lpc-misc
+
+
+
+
+
